@@ -6,6 +6,10 @@
   </picture>
 </h1>
 
+** `Aspiring Digital Polymath (Researcher / Developer / Creator)` **
+
+Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science.
+
 
 <!--
 **Iman24474/Iman24474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
