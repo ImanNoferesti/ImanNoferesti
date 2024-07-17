@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Logo](https://github.com/Iman24474/Iman24474/blob/main/Logo-Design-08.png)
+![Logo](https://github.com/Iman24474/Iman24474/blob/main/NewLogo.png)
 
 <!--
 **Iman24474/Iman24474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
