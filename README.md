@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<p align="left">
+## <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png">
