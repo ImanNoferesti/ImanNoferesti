@@ -6,7 +6,7 @@
   </picture>
 </h1>
 
-** `Aspiring Digital Polymath (Researcher / Developer / Creator)` **
+**` Aspiring Digital Polymath (Researcher / Developer / Creator) `**
 
 Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science.
 
