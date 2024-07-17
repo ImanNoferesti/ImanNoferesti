@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo.png" style="width:50%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png" style="width:50%;">
     <img alt="Your logo" src="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png" style="width:50%;">
   </picture>
 </p>
