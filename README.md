@@ -34,14 +34,14 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 <div align="left">
   <!-- Dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.8&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" />
     <img src="https://github-readme-stats-lemon-nine-59.vercel.app/api?username=iman24474&show_icons=true&hide_rank=true&rank_icon=github&custom_title=GitHub_Stats&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Iman's GitHub stats" />
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" />
   </a>
 
   <!-- Light mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&bg_color=00000000&theme=graywhite#gh-light-mode-only" alt="Top Langs" />
     <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&rank_icon=github&custom_title=GitHub_Stats&theme=graywhite#gh-light-mode-only" alt="Iman's GitHub stats" />
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&bg_color=00000000&theme=graywhite#gh-light-mode-only" alt="Top Langs" />
   </a>
 </div>
 
