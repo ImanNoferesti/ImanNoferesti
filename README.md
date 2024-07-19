@@ -31,7 +31,8 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 #
 
 ### 📊 Stats
-<detailssds>
+<details>
+<summary>:zap: GitHub Stats</summary>
 
 <div align="left">
   <!-- Dark mode -->
