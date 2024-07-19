@@ -32,7 +32,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 
 ### 📊 Stats
 
-![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app//api?username=iman24474&show_icons=true&theme=gruvbox)
+![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app//api?username=iman24474&show_icons=true&theme=rose_pine)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
