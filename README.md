@@ -33,8 +33,8 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 📊 Stats
 
 ![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=rose_pine&bg_color=00000000)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ![Top Langs](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&theme=rose_pine&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&layout=compact&bg_color=00000000)
