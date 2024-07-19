@@ -33,7 +33,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 📊 Stats
 
 ![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=rose_pine&bg_color=00000000)
-[![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=rose_pine#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
