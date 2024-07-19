@@ -31,6 +31,8 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 #
 
 ### 📊 Stats
+<details>
+
 <div align="left">
   <!-- Dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -46,7 +48,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 </div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+</details>
 #
 
 This account is currently under construction. Stay tuned for more projects and updates soon!
