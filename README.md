@@ -34,7 +34,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 
 ![Iman's GitHub stats](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&theme=rose_pine&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++)
+![Top Langs](https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&theme=rose_pine&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++langs_count=10)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
