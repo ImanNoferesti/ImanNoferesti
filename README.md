@@ -8,7 +8,7 @@
 
 **` Aspiring Digital Polymath (Researcher / Developer / Creator) `**
 
-Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science. I aim to use GitHub to showcase my skills and interests, sharing my projects and contributing to the open-source community. Every coding project I undertake is built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
+Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science. I aim to use GitHub to showcase my skills and interests, share my projects, and contribute to the open-source community. Every coding project I undertook was built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
 
 ---
 
