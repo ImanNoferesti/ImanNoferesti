@@ -46,6 +46,11 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
   </a>
 </div>
 
+<div align='left'>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D"/>
+  
+  </div>
+  
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D)
 [![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
