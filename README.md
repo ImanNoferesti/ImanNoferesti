@@ -33,6 +33,8 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 📊 Stats
 
 
+[![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <div align="left">
   <!-- Dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -47,12 +49,9 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 </div>
 
 <div align='left'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D" width="400px"/>
   
   </div>
-  
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D)
-[![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
