@@ -49,8 +49,18 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 </div>
 
 <div align='left'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine#gh-dark-mode-only&date_format=j%20M%5B%20Y%5D" width="662px" alt="Iman's GitHub streak"/>
-  </div>
+  <picture>
+    <source 
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=graywhite&date_format=j%20M%5B%20Y%5D" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D" 
+      alt="Iman's GitHub streak"
+      width="662px"
+    />
+  </picture>
+</div>
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
