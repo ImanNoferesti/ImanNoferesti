@@ -49,6 +49,8 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 
 [![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
