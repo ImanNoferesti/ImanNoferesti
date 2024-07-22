@@ -37,8 +37,10 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
   <!-- Dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=github&custom_title=GitHub_Stats&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Iman's GitHub stats" />
-    <img src="https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" />
+    <div style="position: relative;">
+      <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" style="position: relative; z-index: 1;" />
+      <img src="https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true" style="position: absolute; top: 0; left: 0; z-index: 2;" />
+    </div>
   </a>
 
   <!-- Light mode -->
@@ -47,6 +49,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
     <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&bg_color=00000000&theme=graywhite#gh-light-mode-only" alt="Top Langs" />
   </a>
 </div>
+
 [![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
