@@ -49,7 +49,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 </div>
 
 <div align='left'>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D" width="600px"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D" width="650px"/>
   
   </div>
 
