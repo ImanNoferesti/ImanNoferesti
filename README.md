@@ -1,8 +1,8 @@
 <h1 align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png">
-    <img alt="Your logo" src="https://github.com/Iman24474/Iman24474/blob/main/NewLogo_BlackColor.png" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ImanNoferesti/ImanNoferesti/blob/main/NewLogo.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ImanNoferesti/ImanNoferesti/blob/main/NewLogo_BlackColor.png">
+    <img alt="Your logo" src="https://github.com/ImanNoferesti/ImanNoferesti/blob/main/NewLogo_BlackColor.png" width="200">
   </picture>
 </h1>
 
@@ -33,29 +33,29 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 📊 Stats
 
 
-[![](https://visitcount.itsvg.in/api?id=iman24474&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ImanNoferesti&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="left">
   <!-- Dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=github&custom_title=Current_Stats&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Iman's GitHub stats" />
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" width="356px"/>
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=ImanNoferesti&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=github&custom_title=Current_Stats&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Iman's GitHub stats" />
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=ImanNoferesti&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&title_color=FFFFFFFF&theme=rose_pine#gh-dark-mode-only" alt="Top Langs" width="356px"/>
 
   <!-- Light mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=iman24474&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=github&custom_title=Current_Stats&theme=graywhite#gh-light-mode-only" alt="Iman's GitHub stats" />
-    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=iman24474&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&bg_color=00000000&theme=graywhite#gh-light-mode-only" alt="Top Langs" />
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api?username=ImanNoferesti&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&rank_icon=github&custom_title=Current_Stats&theme=graywhite#gh-light-mode-only" alt="Iman's GitHub stats" />
+    <img src="https://github-readme-stats-imans-projects-bef9645c.vercel.app/api/top-langs/?username=ImanNoferesti&size_weight=0.5&count_weight=0.5&layout=compact&hide=HLSL,ShaderLab,GLSL,GAP,CMake,Objective-C++&langs_count=10&bg_color=00000000&theme=graywhite#gh-light-mode-only" alt="Top Langs" />
   </a>
 </div>
 
 <div align='left'>
   <picture>
     <source 
-      srcset="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=graywhite&date_format=j%20M%5B%20Y%5D" 
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=ImanNoferesti&theme=graywhite&date_format=j%20M%5B%20Y%5D" 
       media="(prefers-color-scheme: light)" 
     />
     <img 
-      src="http://github-readme-streak-stats.herokuapp.com?user=iman24474&theme=rose_pine&date_format=j%20M%5B%20Y%5D" 
+      src="http://github-readme-streak-stats.herokuapp.com?user=ImanNoferesti&theme=rose_pine&date_format=j%20M%5B%20Y%5D" 
       alt="Iman's GitHub streak"
       width="662px"
     />
