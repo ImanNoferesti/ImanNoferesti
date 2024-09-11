@@ -14,19 +14,19 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
-  <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
-  <img alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="padding-right:10px;"/>
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>
-  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
-  <img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="padding-right:10px;"/>
-  <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
-  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
-  <img alt="OpenCV" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;"/>
-  <img alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="padding-right:10px;"/>
-  <img alt="Illustrator" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;"/>
-  <img alt="PremierPro" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
+  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
+  <img alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
+  <img alt="R" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="padding-right:10px;"/>
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>
+  <img alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
+  <img alt="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="padding-right:10px;"/>
+  <img alt="Spring" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
+  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+  <img alt="OpenCV" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;"/>
+  <img alt="Photoshop" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" style="padding-right:10px;"/>
+  <img alt="Illustrator" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;"/>
+  <img alt="PremierPro" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" style="padding-right:10px;"/>
 </p>
 
 # 
