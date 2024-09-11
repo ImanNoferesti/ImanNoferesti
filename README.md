@@ -28,7 +28,6 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 <img align="left" alt="PremierPro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/>
 <br />
 
-#
 
 ### 📊 Stats
 
