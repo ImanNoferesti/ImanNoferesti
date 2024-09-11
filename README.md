@@ -11,7 +11,7 @@
 Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science. I aim to use GitHub to showcase my skills and interests, share my projects, and contribute to the open-source community. Every coding project I undertook was built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
 
 ---
-### 🧰 Languages and Tools
+### 🧰 Languages and Tool
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
