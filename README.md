@@ -14,7 +14,7 @@ Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Io
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
+  <img alt="Java" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
   <img alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
   <img alt="R" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="padding-right:10px;"/>
   <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>
