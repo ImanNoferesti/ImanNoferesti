@@ -8,7 +8,13 @@
 
 **` Aspiring Digital Polymath (Researcher / Developer / Creator) `**
 
-Hi, I'm Iman, a Graduate Research and Teaching Assistant at the University of Iowa, currently pursuing a Master's degree in Computer Science. I aim to use GitHub to showcase my skills and interests, share my projects, and contribute to the open-source community. Every coding project I undertook was built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
+Hi, I'm Iman, a first-year PhD student in Computer Science at the University of Iowa working in the Biocomputing Research Lab, where we design low-cost, cognitively assistive robots (CARs) to support at-home therapy for individuals with neurological conditions like Parkinson’s disease.
+
+My current work focuses on integrating AI-driven feedback, emotion-aware interactions, and precision motion control into CARs that support voice therapy for patients with dysphonia. These robots aim to improve accessibility, reduce clinical load, and enhance treatment outcomes by delivering personalized, real-time therapeutic support.
+
+My broader interests include AI for healthcare, human-robot interaction, vision-based robotics, and extended reality (XR). I’m excited to contribute to the future of accessible, patient-centered assistive technologies through interdisciplinary research in robotics, machine learning, and human health.
+
+Every coding project I undertook was built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
 
 ---
 ### 🧰 Languages and Tools
