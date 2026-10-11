@@ -8,11 +8,11 @@
 
 **` Aspiring Digital Polymath (Researcher / Developer / Creator) `**
 
-Hi, I'm Iman, a PhD student in Computer Science at the University of Iowa, working in the Biocomputing Research Lab on cognitively assistive robots (CARs) for at-home therapy.
-My research focuses on designing low-cost robotic systems that support voice therapy through real-time, AI-driven feedback and human-centered interaction. I’m particularly interested in how adaptive feedback, emotion-aware interaction, and precise control can improve accessibility, reduce clinical burden, and support patients with voice disorders such as dysphonia.
-Broadly, I work at the intersection of human-robot interaction, AI for healthcare, and assistive robotics, with the goal of building practical, patient-centered technologies that translate beyond the lab.
-
-Every coding project I undertook was built from the ground up, starting with careful planning and design, and ultimately aiming to solve real-world problems with code.
+Hi, I'm Iman, a PhD student in Computer Science at the University of Iowa, working at the intersection of human-centered AI, intelligent assistive systems, and human-computer interaction.
+ 
+My research focuses on computationally modeling human behavior and designing adaptive systems that can provide personalized assistance based on an individual's abilities, decisions, and ongoing interaction. I am particularly interested in reinforcement learning, adaptive feedback, perception-action decision making, and interactive technologies such as virtual reality.
+ 
+Broadly, I am interested in developing AI systems that understand human behavior, adapt to individual needs, and provide effective assistance in healthcare, rehabilitation, and other real-world settings.
 
 ---
 ### 🧰 Languages and Tools
